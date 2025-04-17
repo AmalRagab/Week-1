@@ -1,0 +1,25 @@
+1- What is the difference between a class and an object?
+
+➜A class serves as a framework or template that specifies attributes (fields) and behaviors (methods).
+
+➜An object is a specific instance of a class, containing actual data and capable of executing the methods defined in the class.
+
+
+🌸🌸----------------------------🌸🌸
+
+
+2- What is the purpose of using getters and setters in a class?
+
+➜Getters provide a way to access private fields in a controlled manner.
+
+➜Setters control how values are assigned to fields, often allowing for validation or additional logic before modifying the field.
+
+
+🌸🌸----------------------------🌸🌸
+
+
+3- What is the difference between a Public and Private access modifier?
+
+➜Public: The member can be accessed from any part of the program.
+
+➜Private: The member is restricted to access only within the class itself, ensuring the principles of encapsulation and hiding the internal state.
